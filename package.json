@@ -1,0 +1,20 @@
+{
+  "name": "eslint-boiler-plate",
+  "version": "1.0.0",
+  "description": "Repo for eslint boiler plate",
+  "main": "",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint \"**/*.{js,ts}\""
+  },
+  "author": "Syed Thoufiq",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
+    "eslint": "^8.3.0",
+    "eslint-plugin-react": "^7.27.1"
+  }
+}
