@@ -2,5 +2,5 @@
 #### Branches
 - Stable branch: master
 
-## Command to run lint
+#### Command to run lint
 - npm run lint
